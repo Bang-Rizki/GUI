@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+MyForm.cpp(3): error C2143: syntax error: missing ';' before 'using namespace'
+c:\users\babi\documents\visual studio 2015\projects\warnet\warnet\MyForm.h(570): error C2065: 'string': undeclared identifier
+c:\users\babi\documents\visual studio 2015\projects\warnet\warnet\MyForm.h(570): error C2146: syntax error: missing ';' before identifier 'nama'
+c:\users\babi\documents\visual studio 2015\projects\warnet\warnet\MyForm.h(570): error C2065: 'nama': undeclared identifier
+c:\users\babi\documents\visual studio 2015\projects\warnet\warnet\MyForm.h(3): fatal error C1075: the left brace '{' was unmatched at the end of the file
